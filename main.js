@@ -1,0 +1,1 @@
+consolog("Hello world")
